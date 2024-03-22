@@ -7,9 +7,12 @@
 - 🔜 Current worki'n on **TypeScripts, C#, ReactJs**
 - 😘 All thánks to Copilot 
 - ☕&🍻 Love to drink w/<3 somethime
-- My skill:
-[![My Skills](https://skillicons.dev/icons?i=github,js,html,css,scss,mongodb,mysql,nodejs,express,react)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,vscode,git"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,mongodb,express,mysql&perline=5" />
+  </a>
+</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=QuocDut&show_icons=true&locale=en&layout=compact" alt="QuocDut" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=QuocDut&show_icons=true&locale=en" alt="QuocDut" /></p>
