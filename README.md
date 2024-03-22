@@ -3,9 +3,12 @@
  <h3 align='center'>🏅Wanne be myself once...</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=QuocDut&label=Profile%20views&color=0e75b6&style=flat" alt="QuocDut" /> </p>
 
+
 - 🔜 Current worki'n on **TypeScripts, C#, ReactJs**
 - 😘 All thánks to Copilot 
 - ☕&🍻 Love to drink w/<3 somethime
+- My skill:
+[![My Skills](https://skillicons.dev/icons?i=github,js,html,css,scss,mongodb,mysql,nodejs,express,react)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=QuocDut&show_icons=true&locale=en&layout=compact" alt="QuocDut" /></p>
 
