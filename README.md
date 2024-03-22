@@ -9,8 +9,7 @@
 - ☕&🍻 Love to drink w/<3 somethime
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,vscode,git,nodejs,npm"/>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,mongodb,express,mysql&perline=5" />
+    <img src="https://skillicons.dev/icons?i=github,vscode,git,stackoverflow,windows,nodejs,npm,html,css,js,ts,react,mongodb,express,mysql&perline=5" />
   </a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=QuocDut&show_icons=true&locale=en&layout=compact" alt="QuocDut" /></p>
