@@ -9,7 +9,7 @@
 - ☕&🍻 Love to drink w/<3 somethime
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,vscode,git"/>
+    <img src="https://skillicons.dev/icons?i=github,vscode,git,nodejs,npm"/>
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,mongodb,express,mysql&perline=5" />
   </a>
 </p>
