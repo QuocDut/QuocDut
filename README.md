@@ -12,11 +12,8 @@
   <a href="https://www.linkedin.com/in/quocdut/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quocdut/" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/quocdut">
-    <img src="https://img.shields.io/twitter/follow/quocdut?label=Twitter&style=social" alt="Twitter" />
-  </a>
   <a href="https://www.instagram.com/quocdut/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/quocdut/" alt="Instagram" />
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/quocdut.pk.gl/" alt="Instagram" />
   </a>
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=QuocDut&show_icons=true&locale=en" alt="QuocDut" /></p>
