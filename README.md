@@ -9,12 +9,18 @@
 - 😘 All thánks to Copilot
 - ☕&🍻 Love to drink w/<3 somethime
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,vscode,git,stackoverflow,windows,nodejs,npm,html,css,js,ts,react,mongodb,express,mysql&perline=5" />
+  <a href="https://www.linkedin.com/in/quocdut/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quocdut/" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/quocdut">
+    <img src="https://img.shields.io/twitter/follow/quocdut?label=Twitter&style=social" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/quocdut/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/quocdut/" alt="Instagram" />
   </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=QuocDut&show_icons=true&locale=en&layout=compact" alt="QuocDut" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=QuocDut&show_icons=true&locale=en" alt="QuocDut" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=QuocDut&" alt="QuocDut" /></p>
+
+<!-- create specific lines for readme -->
