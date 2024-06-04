@@ -5,8 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=QuocDut&label=Profile%20views&color=0e75b6&style=flat" alt="QuocDut" /> 
 </p>
 
-- 🔜 Current worki'n on **TypeScripts, C#, ReactJs**
-- 😘 All thánks to Copilot
+- 🔜 Current worki'n on **TypeScripts, C#, ReactJs, ASP.NET**
 - ☕&🍻 Love to drink w/<3 somethime
 <p align="center">
   <a href="https://www.instagram.com/quocdut.pk.gl/">
